@@ -1,6 +1,7 @@
 ---
 name: business-four-questions
 description: "生意四问：用谁最痛、何时最急、如何找到我、窗口多久四个问题给生意点子打分、比较、找改进方向并设计最低成本验证。用于评估创业想法、摆摊/小生意、选品、副业或多个点子对比；不用于财务建模、融资估值或营销文案写作。"
+license: MIT
 metadata:
   author: Guo Lvjun
   version: '1.0'
